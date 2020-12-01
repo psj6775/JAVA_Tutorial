@@ -2,6 +2,6 @@ package com.example.tuto;
 
 public class JavaEx {
     public static void main(String[] args) {
-        System.out.println("Test Git");
+        System.out.println("Git push");
     }
 }
